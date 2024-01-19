@@ -1,0 +1,7 @@
+img.logo-image
+
+a.-invite-friend
+
+(//div[contains(text(),' Друг перейдет по вашей ссылке и оставит заявку на курс ')])[1]     !!!!!!ИЛИ!!!!!!      div.step:nth-of-type(3)>div.step-title
+
+ds-expansion-panel.question.ng-tns-c84-2.ng-star-inserted
